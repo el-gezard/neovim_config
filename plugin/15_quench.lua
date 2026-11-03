@@ -1,0 +1,2 @@
+require("quench").setup()
+

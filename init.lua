@@ -25,7 +25,8 @@ vim.pack.add({
     { src = gh("nvim-mini/mini.move") },
     { src = gh("nvim-mini/mini.pairs") },
     { src = gh("nvim-mini/mini.cursorword") },
+    { src = gh("ryan-ressmeyer/quench.nvim") },
 })
 
 vim.cmd.colorscheme = "vscode"
-
+vim.g.quench_nvim_autostart_server = 0

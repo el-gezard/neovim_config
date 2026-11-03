@@ -55,6 +55,10 @@
       "rev": "d3733d933833a0e59b813ecec99341527adf0c28",
       "src": "https://github.com/stevearc/oil.nvim"
     },
+    "quench.nvim": {
+      "rev": "6f6dccf2fadba329c0655c8e63eef84cd33a31d4",
+      "src": "https://github.com/ryan-ressmeyer/quench.nvim"
+    },
     "todo-comments.nvim": {
       "rev": "31e3c38ce9b29781e4422fc0322eb0a21f4e8668",
       "src": "https://github.com/folke/todo-comments.nvim"
